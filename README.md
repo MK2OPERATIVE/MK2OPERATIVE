@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[link]](https://media.discordapp.net/attachments/635174345802776615/1067638168976883732/IMG_0177.gif)" />
+  <img ="[[link]](https://media.discordapp.net/attachments/635174345802776615/1067638168976883732/IMG_0177.gif)" />
 </p>
 
 ```js
