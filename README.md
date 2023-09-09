@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <img src="[[link]](https://media.discordapp.net/attachments/635174345802776615/1067638168976883732/IMG_0177.gif)" />
+</p>
 
-<!--
-**MK2OPERATIVE/MK2OPERATIVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import UNSTABLE_DAY from 'MK2OPERATIVE';
 
-Here are some ideas to get you started:
+class Bio extends UNSTABLE_DAY {
+  names    = 'Unstable, Voskir';
+  pronouns    = 'He/Him, It/Its';
+  source  = 'The Days Union';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Interests extends UNSTABLE_DAY {
+  media  = ['Family Guy', 'PLACEHOLDER'];
+  games  = ['Decaying Winter', 'Pilgrammed', 'Phighting!'];
+  music = ['Celldweller', 'Keygen Church', 'cYsmix'];
+}
+```
