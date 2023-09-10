@@ -6,14 +6,14 @@
 import UNSTABLE_DAY from 'MK2OPERATIVE';
 
 class Bio extends UNSTABLE_DAY {
-  names    = 'Unstable, Voskir';
-  pronouns    = 'He/Him, It/Its';
-  source  = 'The Days Union';
+  names = 'Unstable, Voskir';
+  pronouns = 'He/Him, It/Its';
+  source = 'The Days Union';
 }
 
 class Interests extends UNSTABLE_DAY {
-  media  = ['Family Guy', 'PLACEHOLDER'];
-  games  = ['Decaying Winter', 'Pilgrammed', 'Phighting!'];
+  media = ['Madness Combat', 'TBA'];
+  games = ['Decaying Winter', 'Midnight Horrors', 'Pilgrammed', 'Phighting!'];
   music = ['Celldweller', 'Keygen Church', 'cYsmix'];
 }
 ```
