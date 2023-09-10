@@ -12,7 +12,7 @@ class Bio extends UNSTABLE_DAY {
 }
 
 class Interests extends UNSTABLE_DAY {
-  media = ['Madness Combat', 'TBA'];
+  media = ['Madness Combat', 'AVA/M'];
   games = ['Decaying Winter', 'Midnight Horrors', 'Pilgrammed', 'Phighting!'];
   music = ['Celldweller', 'Keygen Church', 'cYsmix'];
 }
