@@ -8,7 +8,6 @@ import UNSTABLE_DAY from 'MK2OPERATIVE';
 class Bio extends UNSTABLE_DAY {
   names = 'Unstable, Voskir';
   pronouns = 'He/Him, It/Its';
-  source = 'The Days Union';
 }
 
 class Interests extends UNSTABLE_DAY {
